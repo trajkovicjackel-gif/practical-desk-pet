@@ -1,0 +1,10 @@
+# 实用桌宠 Practical Desk Pet 依赖（Windows + Python 3.12+）
+# 安装：pip install -r requirements.txt
+PySide6>=6.6
+winrt-runtime>=3.2.1
+winrt-Windows.Media.Control>=3.2.1
+winrt-Windows.Foundation>=3.2.1
+winrt-Windows.Foundation.Collections>=3.2.1
+pycaw>=20251023
+comtypes>=1.4.16
+uiautomation>=2.0.29
